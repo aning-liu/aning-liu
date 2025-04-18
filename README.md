@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aning-liu
-- 👀 I’m interested in Robotics
 - 📫 Contact: xuanning.lucy.liu@gmail.com
 
 <!---
